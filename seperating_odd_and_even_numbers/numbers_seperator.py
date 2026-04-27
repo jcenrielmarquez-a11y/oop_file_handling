@@ -16,3 +16,14 @@ class NumbersSeperator:
             print("File Not Found")
         except ValueError:
             print("Value Error")
+
+    def even_numbers(self):
+        return [num for num in self.numbers if num % 2 == 0]
+
+    def odd_numbers(self):
+        return [num for num in self.numbers if num % 2 != 0]
+
+    def write_to_file(self, file_name, numbers):
+        with open(file_name, "w") as file:
+            for num in numbers:
+                file.write(str(num) + "\n")
