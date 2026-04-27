@@ -1,5 +1,5 @@
 class MyLifeWriter:
-    def __init__(self, file_name):
+    def __init__(self, file_name="mylife.txt"):
         self.file_name = file_name
 
     def write_lines(self):
