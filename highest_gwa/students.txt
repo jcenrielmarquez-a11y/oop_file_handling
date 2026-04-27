@@ -1,20 +1,20 @@
-Juan Dela Cruz 1.75
-Maria Santos 1.90
-Pedro Ramirez 2.10
-Ana Villanueva 1.85
-Jose Bautista 2.25
-Liza Mendoza 1.95
-Mark Reyes 2.00
-Ella Navarro 1.70
-Carlo Fernandez 2.30
-Sofia Gonzales 1.80
-Miguel Ortega 2.40
-Grace Salazar 1.65
-Daniel Morales 2.05
-Patricia Dominguez 1.88
-Andrei Castillo 2.15
-Katrina Lopez 1.92
-Rafael Torres 2.35
-Bea Cruz 1.78
-Christian Alvarez 2.20
-Nicole Herrera 1.83
+Juan Dela Cruz - 1.75
+Maria Santos - 1.90
+Pedro Ramirez - 2.10
+Ana Villanueva - 1.85
+Jose Bautista - 2.25
+Liza Mendoza - 1.95
+Mark Reyes - 2.00
+Ella Navarro - 1.70
+Carlo Fernandez - 2.30
+Sofia Gonzales - 1.80
+Miguel Ortega - 2.40
+Grace Salazar - 1.65
+Daniel Morales - 2.05
+Patricia Dominguez - 1.88
+Andrei Castillo - 2.15
+Katrina Lopez - 1.92
+Rafael Torres - 2.35
+Bea Cruz - 1.78
+Christian Alvarez - 2.20
+Nicole Herrera - 1.83
