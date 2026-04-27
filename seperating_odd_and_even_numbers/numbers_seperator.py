@@ -3,7 +3,7 @@ class NumbersSeperator:
         self.input_file = input_file
         self.numbers = []
 
-    def numbers_separator(self, even_file, odd_file):
+    def numbers_seperator(self, even_file, odd_file):
         try:
             with open(self.input_file, "r") as file:
                 self.numbers = [int(line.strip()) for line in file.readlines()]
