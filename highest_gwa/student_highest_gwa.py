@@ -21,6 +21,6 @@ class StudentHighestGwa:
             print(f"Student with the highest GWA: {name_with_highest_gwa} - {highest_gwa}")
 
         except FileNotFoundError:
-            print("File not found"))
+            print("File not found")
         except ValueError:
-            print("Invalid file format"))
+            print("Invalid file format")
