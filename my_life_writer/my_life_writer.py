@@ -12,3 +12,8 @@ class MyLifeWriter:
                     more = input("Are there more lines y/n? ").lower()
                     if more != "y":
                         break
+
+            print(f"Contents written to {self.file_name} successfully!")
+
+        except Exception as e:
+            print("An error occurred:", e)
