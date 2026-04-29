@@ -9,9 +9,17 @@ class IntegerSeperator:
                 for line in file.readlines():
                     numbers.append(int(line.strip()))
 
-        with open("double.txt", "w") as even_file, open("triple.txt", "w") as odd_file:
-            for num in numbers:
-                if num % 2 == 0:
-                    even_file.write(str(num ** 2) + "\n")
+            with open("double.txt", "w") as even_file, open("triple.txt", "w") as odd_file:
+                for num in numbers:
+                    if num % 2 == 0:
+                       even_file.write(str(num ** 2) + "\n")
                 else:
                     odd_file.write(str(num ** 3) + "\n")
+
+            print("Process Completed: double.txt and triple.txt created.")
+
+        except FileNotFoundError:
+            print("Source file not found.")
+
+        except ValueError:
+            print("Invalid data format in integers.txt.")
